@@ -3,7 +3,7 @@
 <h2>🤖 Machine Learning & AI Projects:</h2>
 
 - <b>Traditional Machine Learning</b>
-  - [Supervised Trad ML](https://github.com/Toluwani5778/Toluwani5778.github.io)
+  - [Supervised Trad ML](https://github.com/Toluwani5778/Toluwani5778.github.io/tree/main/Supervised%20Trad%20ML)
   - [Unsupervised Trad ML](https://github.com/Toluwani5778/Toluwani5778.github.io)
 - <b>Natural Language Processing</b>
   - [NLP Projects](https://github.com/Toluwani5778/Toluwani5778.github.io)
@@ -14,7 +14,7 @@
   - [Drone Hand Tracking](https://github.com/Toluwani5778/Toluwani5778.github.io)
   - [Object Detection](https://github.com/Toluwani5778/Toluwani5778.github.io)
 - <b>ML Web App</b>
-  - [Streamlit Implementation](https://github.com/Toluwani5778/Toluwani5778.github.io)
+  - [Streamlit Implementation](https://github.com/Toluwani5778/Toluwani5778.github.io/tree/main/Streamlit)
 
 
 <h2>📺 Website</h2>
