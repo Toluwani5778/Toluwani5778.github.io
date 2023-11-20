@@ -1,0 +1,1 @@
+When you paste a new text, "Press Enter" before pressing Predict.
