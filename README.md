@@ -24,7 +24,7 @@
 
 <h2>📜 Resume</h2>
 
-- [Resume](https://norwich0-my.sharepoint.com/:b:/r/personal/tolukann_norwich_edu/Documents/Official%20Career%20Docs/Standard%20Resume/Resume.pdf?csf=1&web=1&e=6gRcXH)
+- [Resume](https://norwich0-my.sharepoint.com/:b:/r/personal/tolukann_norwich_edu/Documents/Official%20Career%20Docs/Standard%20Resume/Resume%20Updated.pdf?csf=1&web=1&e=9tlOLT)
   
 <h2> 🤳 Connect with me:</h2>
 
